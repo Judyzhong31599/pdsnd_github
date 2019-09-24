@@ -20,7 +20,7 @@ facet_wrap(~User.Type)
 ### Question 2:What are the most busy month and stations in Washington Bikeshare?
 
 
-library(ggplot2)
+
 
 wash=read.csv('C://Users//jzhong//Documents//R//R_Project//washington.csv')
 
