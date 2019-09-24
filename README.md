@@ -19,7 +19,10 @@ Question 3: What are the earliest, most recent, most common year of birth in New
 new_york_city.csv
 washington.csv
 chicago.csv
-
+ 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+https://medium.com/@peterx/5-must-have-r-programming-tools-4ce5a26a1127
+
+https://datascienceplus.com/exploring-san-francisco-bay-areas-bike-share-system/
 
